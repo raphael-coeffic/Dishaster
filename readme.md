@@ -9,20 +9,16 @@ Mixing time management, stealth, and comedy, Dishaster turns catering into pure 
 
 ## 👥 Team Members
 - Raphael Coeffic  
-- 
+- Yanai Levy
 
 ---
 
 ## 📜 Project Files
-- [Formal Elements Document](link-to-your-formal-elements.md)
-- Game concept sketch and design files
+- [Formal Elements Document](https://github.com/GenesisWarfare/Dishaster/blob/main/formal-elements.md)
+
 
 ---
 
-## 🖼️ Concept Art
-![Dishaster Concept](https://github.com/user-attachments/assets/39a46462-fc66-4988-b7eb-3d944bd70fce)
-
----
 
 ## 🕹️ Quick Facts
 - **Genre:** Management / Stealth Comedy  
