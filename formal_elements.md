@@ -11,7 +11,8 @@ The game is designed for PC and mobile (Android/iOS), making it perfect for both
 
 This a screen drawing like we imagine the game (sorry for the drawing talent 😅
 
-![Uploading image.png…]()
+<img width="1355" height="1025" alt="image" src="https://github.com/user-attachments/assets/39a46462-fc66-4988-b7eb-3d944bd70fce" />
+
 
 
 ---
