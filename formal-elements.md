@@ -89,7 +89,7 @@ Each round becomes faster and more chaotic — slipping on spilled drinks, dodgi
 
 End Phase
 
-The shift ends after a set timer (e.g. 5 minutes) or if the Boss fires you on the spot.
+The shift ends after a set timer or if the Boss fires you on the spot.
 You’re immediately graded on:
 
 Tips earned 💰
