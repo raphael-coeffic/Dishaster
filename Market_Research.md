@@ -1,4 +1,4 @@
-# MarketResearch
+# Market Research
 
 ## 1. Market & Trends Overview  
 
