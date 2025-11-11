@@ -26,3 +26,24 @@ Opportunity: Dishaster is positioned to capitalize on the desire for chaotic gam
 
 The Israeli audience is a rapid adopter of global mobile gaming trends. Should the game incorporate local cultural humor or settings (e.g., specific event types or recognizable character archetypes), it could generate local virality and foster a strong, immediate connection with the domestic audience.
 **Part of:** Game Development Course – Market Research Assignment  
+
+## 2. Target Audience 🎯  
+
+The target audience for **Dishaster** falls within the **Mid-Core Casual** segment — players drawn to accessible chaos, humor, and skill-based time-management challenges with replay value.
+
+| **Segment** | **Description** |
+|--------------|----------------|
+| **Gamer Type** | *Mid-Core Casual*: Players who enjoy short (5–15 min) yet meaningful sessions with strategic depth and a rewarding progression (Meta-Game). |
+| **Age Range** | *18–35 (Primary)* — Appeals to audiences who enjoy ironic, workplace-based humor (e.g., *The Office*) and chaotic co-op titles (*Overcooked*, *Moving Out*). |
+| **Gender** | *Gender-neutral* — Combines broad Time-Management appeal with Action-Comedy energy. |
+| **Interests** | Chaos management, light strategy, comedic storytelling, customization, and satisfying progression systems. |
+
+### Core Motivations
+- **Comedic Release** — Relieve stress through absurd humor and “funny failure” moments (e.g., getting fired in style).  
+- **Skill & Mastery** — The thrill of handling chaos efficiently and earning a “Perfect Shift.”  
+- **Progression** — Meta-Game upgrades: use tips to unlock faster shoes, larger trays, or charisma buffs.  
+- **Novelty** — Each session feels fresh thanks to random events and NPC interactions.
+
+### Israeli Market Note 🇮🇱  
+Israel has a strong mobile-gaming culture and an appreciation for **self-aware, ironic humor**.  
+Localized cultural touches (e.g., chaotic wedding events or bar mitzvah scenes) could enhance **virality and audience resonance** in the regional market.
