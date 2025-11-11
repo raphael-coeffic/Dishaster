@@ -53,11 +53,11 @@ Localized cultural touches (e.g., chaotic wedding events or bar mitzvah scenes) 
 
 This section compares **three key competitors** in the *Time Management Chaos* and *Simulation/Stealth* genres to identify market gaps that **Dishaster** can exploit through its blend of humor, stealth, and reactive gameplay.
 
-| **Competitor Title** | **Core Genre & Platform** | **Success Snapshot** | **USP & Dishaster Opportunity** |
-|-----------------------|---------------------------|----------------------|---------------------------------|
-| **1. Overcooked! (Team17)** | Co-op Chaos / PC, Console, Mobile | Massive global success, high critical scores, strong streaming presence. | **USP:** Intense teamwork, physics-based kitchen chaos. <br> **Opportunity:** Lacks narrative and stealth. Dishaster fills the *solo-player* comedic chaos niche with personal stakes and boss avoidance. |
-| **2. PlateUp! (Yogscast Games)** | Time Management Roguelite / PC | "Overwhelmingly Positive" on Steam; strong replayability through meta-progression. | **USP:** Roguelite structure with restaurant management. <br> **Opportunity:** Chaos is mechanical, not social. Dishaster adds *social stealth, improvisation,* and *character-driven humor* instead of repetitive cooking. |
-| **3. Good Pizza, Great Pizza (TapBlaze)** | F2P Time Management / Mobile | Millions of downloads; sustainable F2P monetization. | **USP:** Puzzle-style serving and microtransactions. <br> **Opportunity:** Lacks movement, tension, and stealth. Dishaster offers *dynamic spatial gameplay* — dodging the boss, guests, and chaos under pressure. |
+| **Competitor Title** | **Core Genre & Platform** | **Success Snapshot** | **Copies Sold / Downloads (with Source)** | **USP & Dishaster Opportunity** |
+|-----------------------|---------------------------|----------------------|-------------------------------------------|---------------------------------|
+| **1. Overcooked! (Team17)** | Co-op Chaos / PC, Console, Mobile | Massive global success, high critical scores, strong streaming presence. | *(à remplir — ex : ~5M copies sold, SteamSpy 2024)* | **USP:** Intense teamwork, physics-based kitchen chaos. <br> **Opportunity:** Lacks narrative and stealth. Dishaster fills the *solo-player* comedic chaos niche with personal stakes and boss avoidance. |
+| **2. PlateUp! (Yogscast Games)** | Time Management Roguelite / PC | "Overwhelmingly Positive" on Steam; strong replayability through meta-progression. | *(à remplir — ex : ~1M copies sold, SteamDB 2024)* | **USP:** Roguelite structure with restaurant management. <br> **Opportunity:** Chaos is mechanical, not social. Dishaster adds *social stealth, improvisation,* and *character-driven humor* instead of repetitive cooking. |
+| **3. Good Pizza, Great Pizza (TapBlaze)** | F2P Time Management / Mobile | Millions of downloads; sustainable F2P monetization. | *(à remplir — ex : 100M+ downloads, Google Play / App Annie 2024)* | **USP:** Puzzle-style serving and microtransactions. <br> **Opportunity:** Lacks movement, tension, and stealth. Dishaster offers *dynamic spatial gameplay* — dodging the boss, guests, and chaos under pressure. |
 
 ---
 
