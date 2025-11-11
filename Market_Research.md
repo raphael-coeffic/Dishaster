@@ -202,4 +202,24 @@ Each event subtly modifies mechanics (e.g., chaos intensity, stealth conditions)
 Time-limited leaderboards and global rankings encourage **friendly competition**.  
 Event-specific clips and achievements are **highly shareable**, boosting organic visibility and community involvement across social platforms.
 
+## 8. The Meta-Game  
+
+The meta-game explains how Dishaster keeps players engaged beyond the main serving loop.  
+It focuses on **progression, customization, and humor-driven replayability** to create lasting motivation.
+
+The core system, called **“The Hall of Shame”**, acts as a persistent hub where players spend their earned Tips to upgrade skills, decorate their dorm, and view their funniest failures.  
+Every shift contributes to long-term growth — even failed ones.
+
+**Key Points:**  
+- **Progression:** Permanent upgrades (speed, endurance, charisma) that carry across all sessions.  
+- **Customization:** Unlockable outfits, trays, and dorm decorations to express player identity.  
+- **Humorous Memory System:** A “Failure Gallery” turns being fired into a collectible moment, reinforcing the game’s comedic tone.  
+
+This meta-layer transforms short chaotic sessions into continuous progress, giving players clear goals, emotional attachment, and a reason to keep coming back.
+
+
+
+
+
+
 
