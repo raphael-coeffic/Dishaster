@@ -290,5 +290,7 @@ Dishaster presents a strong opportunity due to its **unique hybrid design**, **v
 The research confirms market demand, clear differentiation, and scalability — making Dishaster one of the most promising concepts for further development and investment.
 
 
+---
 
+*Some parts of this README (structure & layout) were assisted by ChatGPT.*
 
